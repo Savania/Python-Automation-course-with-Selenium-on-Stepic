@@ -1,1 +1,2 @@
-new text in this file
+It is new project for automation cource!
+Welcome!
